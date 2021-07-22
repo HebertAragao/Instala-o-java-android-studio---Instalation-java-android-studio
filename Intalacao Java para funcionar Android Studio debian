@@ -1,0 +1,8 @@
+#Instalar Java para Android Studio
+#Install Java for Android Studio
+
+sudo apt install default-jre
+java -version
+sudo apt install default-jdk
+javac -version
+
